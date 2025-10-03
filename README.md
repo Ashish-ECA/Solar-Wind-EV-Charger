@@ -112,5 +112,10 @@ This hybrid control makes the system resilient and reliable against weather cond
 
 ---
 
-## Repository Structure  
+## Contact  
+
+For any queries, suggestions, or collaborations, feel free to reach out:  
+
+📧 Email: [ashishprajit308@gmail.com](mailto:ashishprajit308@gmail.com)  
+ 
 
